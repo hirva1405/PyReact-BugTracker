@@ -125,10 +125,11 @@ Bash
 cd frontend
 npm install
 npm start
-🌎 Deployment Roadmap
-Backend: Hosted on Render (via Docker/Python runtime).
 
-Frontend: Optimized build deployed on Vercel/Netlify.
+🌎 Deployment Roadmap
+Backend: Hosted on Render (via Docker/Python runtime).(https://bugtracker-backend-lvau.onrender.com)
+
+Frontend: Optimized build deployed on Vercel/Netlify.(https://bugtracker-frontend-fkop.onrender.com)
 
 Database: Global cluster on MongoDB Atlas.
 
