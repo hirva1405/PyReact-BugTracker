@@ -12,8 +12,6 @@ Tech Stack
 
 API Documentation
 
-Folder Structure
-
 Getting Started
 
 Deployment Roadmap
@@ -70,25 +68,7 @@ Database: MongoDB (via Motor/Pymongo)
 
 Validation: Pydantic models
 
-📂 Folder Structure
-Plaintext
-BugTracker/
-├── backend/
-│   ├── app/
-│   │   ├── main.py          # FastAPI Entry Point
-│   │   ├── models.py        # Pydantic Schemas
-│   │   └── database.py      # MongoDB Configuration
-│   ├── requirements.txt     # Python Dependencies
-│   └── .env                 # Environment Variables
-└── frontend/
-    ├── src/
-    │   ├── pages/
-    │   │   └── Dashboard.js # Main UI Logic
-    │   ├── services/
-    │   │   └── api.js       # Axios Configuration
-    │   └── App.js           # Root Component
-    ├── tailwind.config.js
-    └── package.json
+
 🚥 API Documentation
 The backend provides automated interactive documentation via Swagger UI.
 
