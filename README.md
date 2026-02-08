@@ -127,9 +127,11 @@ npm install
 npm start
 
 🌎 Deployment Roadmap
-Backend: Hosted on Render (via Docker/Python runtime).(https://bugtracker-backend-lvau.onrender.com)
+Backend: Render 
+Link :- https://bugtracker-backend-lvau.onrender.com
 
-Frontend: Optimized build deployed on Vercel/Netlify.(https://bugtracker-frontend-fkop.onrender.com)
+Frontend: Render 
+Link:- https://bugtracker-frontend-qg2d.onrender.com
 
 Database: Global cluster on MongoDB Atlas.
 
